@@ -1,5 +1,5 @@
 alphabet='abcdefghijklmnopqrstuvwxyz'
-key=3
+key=2
 
 character=input('Please enter a character:')
 
